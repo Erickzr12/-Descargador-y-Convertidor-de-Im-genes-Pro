@@ -47,6 +47,6 @@ Una miniatura de la imagen descargada/convertida aparece en la interfaz.
 
 Esto permite confirmar rápidamente el resultado sin abrir otra aplicación. 
 
-////////////////////////Resultado de Interfaz de Programa////////////////////////7
+////////////////////////Resultado de Interfaz de Programa////////////////////////
 <img width="562" height="500" alt="image" src="https://github.com/user-attachments/assets/752adbbd-90cf-468e-8073-a4e4c600c37a" />
 
